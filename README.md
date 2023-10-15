@@ -47,7 +47,7 @@ With these steps, you can quickly adapt this project to your university organiza
 
         Professor Management:
 
-        Professors can be managed similarly with students.
+        Professor records are managed similarly with student records.
 
 #### 2. Classes Management
        
@@ -104,7 +104,7 @@ By following these usage instructions, you can effectively manage students, prof
 
 ### Database Schema:
 
-![Database ERD](https://github.com/Dex-Astorga/univ-org/blob/main/univ_org_ERD.png?raw=true)
+![Database ERD](https://github.com/dexdevtech/univ-org-db-design/blob/main/univ_org_ERD.png?raw=true)
 
 <br>
 
@@ -124,7 +124,7 @@ By following these usage instructions, you can effectively manage students, prof
 
 If you encounter a bug or have an idea for improvement:
 
-1. **Submit an Issue:** Visit the [issue tracker](https://github.com/Dex-Astorga/univ-org/issues) and create a new issue.
+1. **Submit an Issue:** Visit the [issue tracker](https://github.com/dexdevtech/univ-org-db-design/issues) and create a new issue.
 2. **Provide Details:** Clearly describe the problem or feature request.
 3. **Stay Engaged:** Check for updates on your issue.
 
